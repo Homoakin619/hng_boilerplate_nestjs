@@ -196,6 +196,7 @@ AutoTest.Net/
 
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/
+temp_auto_push.bat
 DocProject/Help/*.HxT
 DocProject/Help/*.HxC
 DocProject/Help/*.hhc
@@ -395,3 +396,4 @@ dist
 # Migrations
 /db/migrations/*-migration.ts
 /db
+branch_structure.json
